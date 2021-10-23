@@ -1,2 +1,2 @@
-# Find
+# Auto Sum
 just for fun 
